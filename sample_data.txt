@@ -1,0 +1,5 @@
+Hello Spark
+Hello EMR
+Hello World
+Spark is awesome
+EMR is powerful
